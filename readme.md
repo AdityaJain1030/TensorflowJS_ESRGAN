@@ -1,5 +1,5 @@
 # Tfjs ESRGAN
-A [Tensorflow.JS](https://tensorflow.com/js) wrapper of ESRGAN based off the [ESRGAN Tensorflow Implementation](https://github.com/captain-pool/GSOC/tree/master/E2_ESRGAN). Made with Typescript, Python, Node.js, and Tensorflow.js.
+A [Tensorflow.JS](https://tensorflow.com/js) wrapper of ESRGAN (aka Zoom and Enhance)  based off the [ESRGAN Tensorflow Implementation](https://github.com/captain-pool/GSOC/tree/master/E2_ESRGAN). Made with Typescript, Python, Node.js, and Tensorflow.js.
 
 ## Quickstart
 Make sure you have `node.js` installed. You can check this with `node -v`. If you dont have node.js installed, you can install it from [here](https://nodejs.org/en/)
