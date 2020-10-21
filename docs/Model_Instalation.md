@@ -7,6 +7,18 @@
 
 3) Copy the whole './models' folder to this directory. Your dir tree should look like this
 ```
+├───docs
+│   ├───images
+│   │   ├───CNN.png
+│   │   ├───gan_diagram.svg
+│   │   ├───SuperResolution1.png
+│   │   ├───SuperResolution2png
+│   │
+│   ├───examples.md
+│   ├───how_it_works.md
+│   ├───Model_Instalation.md
+│   ├───readme.md
+│
 ├───models
 │   ├───group1-shard1of2.bin
 │   ├───group1-shard2of2.bin

@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "node GAN"
+    "start": "node index"
   },
-  "author": "Aditya Jain",
-  "license": "ISC",
+  "author": "Aditya Jain ",
+  "license": "MIT",
   "dependencies": {
     "@tensorflow/tfjs-node": "^2.6.0"
   }
