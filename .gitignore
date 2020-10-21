@@ -117,4 +117,5 @@ dist
 
 *.js
 
-./models
+models/*
+
