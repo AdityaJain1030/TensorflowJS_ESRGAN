@@ -2,7 +2,7 @@
 A guide on how to reuse this code for your own projects!
 
 ### Typescript/Javascript
-Start by going to [index.ts](https://github.com/FirstPotatoMan/TensorflowJS_GAN/blob/master/index.ts). You should see 
+Start by going to [index.ts](https://github.com/FirstPotatoMan/TensorflowJS_GAN/blob/master/src/index.ts). You should see 
 ```ts
 import {preprocess, saveImage, loadModel, predictFromImage} from './utils'
 const image = "./images/test1.png"
@@ -24,7 +24,7 @@ The first 3 lines import the helper functions, and set the paths to the image an
 
 `saveImage` takes in a `Tensor4D` with shape `(1, R, G, B)`, and a `string` as the path to export the image. It returns nothing, but saves the image to the path specified
 
-These 4 methods can be imported from [utils.ts](https://github.com/FirstPotatoMan/TensorflowJS_GAN/blob/master/utils.ts)
+These 4 methods can be imported from [utils.ts](https://github.com/FirstPotatoMan/TensorflowJS_GAN/blob/master/src/utils.ts)
 
 
 ### Python
