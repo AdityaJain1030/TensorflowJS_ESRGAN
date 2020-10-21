@@ -1,4 +1,6 @@
 ## Running the script
+Make sure you have `node.js` installed. You can check this with `node -v`. If you dont have node.js installed, you can install it from [here](https://nodejs.org/en/)
+
 1) Run `npm i`
 
 2) Run `npm run build`
