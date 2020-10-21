@@ -3,6 +3,8 @@
 //import helpers
 import {preprocess, saveImage, loadModel, predictFromImage} from './utils'
 
+//note that the path should be relative to outside of ./src, since thats where index.ts compiles to
+
 //path to image
 const image = "./images/test1.png"
 //model extracted from https://tfhub.dev/captain-pool/esrgan-tf2/1, using TFJS_Convertor Python Package
